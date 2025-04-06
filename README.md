@@ -15,3 +15,8 @@ You open the cmd and give app.py as the file name and press the enter button. Be
 step 04:
 The IP you use is shown there. Paste it in the PC browser. After that, connect the phone to Wi-Fi and paste that IP in the browser.
 ![Screenshot (548)](https://github.com/user-attachments/assets/305c6108-6171-4361-9059-b6696411982e)
+
+
+
+DISCLAIMER:
+Any information you enter here will not be passed on to anyone else or to the creator. All the files here are stored in the folder named Uploads in the folder where you put the Python file.
